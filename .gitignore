@@ -1,0 +1,6 @@
+.rgignore
+.cache/
+compile_commands.json
+bin/
+subprojects/.wraplock
+subprojects/packagecache/
